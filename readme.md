@@ -28,7 +28,7 @@ fabric8
 
 ### Getting Started
 
-* [Getting Started guides](http://fabric8.io/guide/getStarted.html)
+* [Getting Started guides](http://fabric8.io/guide/getStarted/index.html)
 
 ### Source code
 
